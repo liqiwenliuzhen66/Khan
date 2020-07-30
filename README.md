@@ -1,2 +1,2 @@
 # Khan
-create khan tools
+create khan rep
